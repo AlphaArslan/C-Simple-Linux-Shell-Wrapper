@@ -3,6 +3,7 @@ the shell supports:
 * namely all shell command (e.g., ls , pwd).
 * the __&__ operator for background execution.
 * the "exit" command to exit the shell.
+* a log file.
 
 the shell is simple and to some extent stable.
 
@@ -11,6 +12,7 @@ Please find:
 - more on the problem statement in __Problem_Statment.pdf__.
 - more on the solution and design in __Docs.pdf__.
 - the code and how to execute it in __code__ folder.
+- the demo short video [here](https://youtu.be/zDjLADJGXFs).
 
 ---
 Stay Safe :heart:

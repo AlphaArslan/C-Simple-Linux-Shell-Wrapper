@@ -8,4 +8,4 @@ gcc shell.c
 ./a.out
 ```
 
-work word just fine.
+should work just fine.
